@@ -4,7 +4,7 @@ author: "octocat@github.com"
 
 inputs:
   MY_NAME:
-    description: "Who to greet 222"
+    description: "Who to greet 333"
     required: true
     default: "World"
 
